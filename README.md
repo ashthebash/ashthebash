@@ -16,8 +16,11 @@ My background is unusual on purpose: I've taught game development at degree leve
 ## 🧰 Tools I reach for
 
 **Languages & shaders** — QML, GLSL, HLSL, Python, C++ (reading more than writing)
+
 **Engines & graphics** — Qt / QML, Unreal Engine 5, Substance Designer, Blender
+
 **Design & content** — Figma, Confluence, Adobe CC, DaVinci Resolve
+
 **Process** — Curriculum design, instructional design, technical writing, video production
 
 ---
